@@ -7,7 +7,7 @@
     {
       "address": "0xC1542E54b34964b7fD0De0B252A8F9Ebd0F9c01e",
       "name": "impactMarket",
-      "symbol": "old-TEST",
+      "symbol": "old-tPACT",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PACT.png"
@@ -15,7 +15,7 @@
     {
       "address": "0x0385F59A81D2fecfDb9722B0ee608722D7CEeA6E",
       "name": "impactMarket",
-      "symbol": "TEST",
+      "symbol": "tPACT",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PACT.png"
